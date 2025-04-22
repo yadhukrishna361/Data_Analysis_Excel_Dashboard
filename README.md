@@ -55,6 +55,8 @@ Dashboard Design:
 
  - Used structured layout and consistent formatting for clarity and quick insights.
 
+ - <a href="https://github.com/yadhukrishna361/Data_Analysis_Excel_Dashboard/blob/main/Coco-cola_dashboard.png">View Dashboard</a>
+
 ## Project Insights
 
 - Total sales jumped from $2.42M in 2022 to $9.59M in 2023, a growth of over 295%.
@@ -69,3 +71,8 @@ Dashboard Design:
 
 ## Conclusion
 This dashboard project successfully transformed raw sales data into actionable insights for Coca-Cola's USA retail performance. It highlighted growth areas, key contributors, and temporal trends, enabling business stakeholders to make informed strategic decisions.
+
+## Dashboard
+
+<img width="892" alt="Coco-cola_dashboard" src="https://github.com/user-attachments/assets/ecff9340-2e4e-4647-89bc-1666b36bfb99" />
+
